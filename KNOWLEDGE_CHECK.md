@@ -12,7 +12,7 @@ Redirect the command's output to `results/job-history.txt` and include the file 
 
 **Your answer:** sacct -S 2026-11-04 --format=JobID,JobName,NodeList,Partition,Account,User,State,Start,Elapsed
 
-...
+
 
 ## 2. Slurm: did every array task run at the same time?
 
@@ -24,7 +24,7 @@ You submitted your entire job array with one `sbatch` command, but Slurm schedul
 
 **Your answer:** No, while some of the tasks started at the same time or took the same amount of time to run, most of the tasks have different values for these measurements. This discrepency is due to parallel computing starting the jobs in a kind of queue, with certain jobs finishing faster based on the qwen response time.
 
-...
+
 
 ## 3. Slurm: did my job use what it asked for?
 
@@ -36,5 +36,5 @@ Suppose your next job array has 1,000 books instead of 101. Before you submit it
 
 **Your answer:** The task used 1.37 GB out of the 16GB allotted. It took 14 seconds and was allotted 5 minutes. I would reduce the runtime to 40 seconds and the memory to 8 GB to conserve resources since those new values are still well over double what the current task used.
 
-...
+
 
