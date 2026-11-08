@@ -10,7 +10,7 @@ Redirect the command's output to `results/job-history.txt` and include the file 
 
 *Hint:* See [Part 1, Step 6](README.md#step-6-check-how-the-tasks-ended) in the README.
 
-**Your answer:** Provide the entire command you used, including all CLI options.
+**Your answer:** sacct -S 2026-11-04 --format=JobID,JobName,NodeList,Partition,Account,User,State,Start,Elapsed
 
 ...
 
@@ -22,7 +22,7 @@ You submitted your entire job array with one `sbatch` command, but Slurm schedul
 
 *Hint:* See [Part 1, Step 5](README.md#step-5-watch-the-job-array) in the README.
 
-**Your answer:** Did all tasks in the array start at the same time? Was the elapsed time identical for every task? Explain why or why not.
+**Your answer:** No, while some of the tasks started at the same time or took the same amount of time to run, most of the tasks have different values for these measurements. This discrepency is due to parallel computing starting the jobs in a kind of queue, with certain jobs finishing faster based on the qwen response time.
 
 ...
 
@@ -34,7 +34,7 @@ Suppose your next job array has 1,000 books instead of 101. Before you submit it
 
 *Hint:* `seff` takes the ID of one task, such as `4211873_1`. Compare its **Memory Utilized** and **Job Wall-clock time** with `--mem` and `--time` in your `summarize.slurm`.
 
-**Your answer:** How much memory and time did the task use, compared with what your script asked for? What would you change in your script, and why?
+**Your answer:** The task used 1.37 GB out of the 16GB allotted. It took 14 seconds and was allotted 5 minutes. I would reduce the runtime to 40 seconds and the memory to 8 GB to conserve resources since those new values are still well over double what the current task used.
 
 ...
 

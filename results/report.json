@@ -1,0 +1,85 @@
+{
+  "documents": 102,
+  "summarized": 101,
+  "runs_by_job": [
+    {
+      "_id": "22671759",
+      "books": 1
+    },
+    {
+      "_id": "22671770",
+      "books": 1
+    },
+    {
+      "_id": "22671801",
+      "books": 101
+    }
+  ],
+  "genres": [
+    {
+      "_id": "historical fiction",
+      "books": 27
+    },
+    {
+      "_id": "mystery",
+      "books": 19
+    },
+    {
+      "_id": "adventure",
+      "books": 18
+    },
+    {
+      "_id": "children's story",
+      "books": 12
+    },
+    {
+      "_id": "romance",
+      "books": 8
+    },
+    {
+      "_id": "drama",
+      "books": 7
+    },
+    {
+      "_id": "science fiction",
+      "books": 7
+    },
+    {
+      "_id": "horror",
+      "books": 2
+    },
+    {
+      "_id": "unknown",
+      "books": 1
+    }
+  ],
+  "last_summarized": [
+    {
+      "_id": "pg963.txt",
+      "author": "Charles Dickens",
+      "title": "Little Dorrit",
+      "llm_analysis": {
+        "summary": "Mr Arthur Clennam arrives in London from Marseilles, where he witnessed a tragic event involving a ship sinking. He meets his estranged mother, Mrs Clennam, who is confined to her room due to health issues. During their reunion, Mr Clennam learns about his father's death and the financial troubles of the family. Mrs Clennam reveals that her husband, Jeremiah Flintwinch, proposes marriage to her despite their shared past.",
+        "genre": "historical fiction"
+      }
+    },
+    {
+      "_id": "pg98.txt",
+      "author": "Charles Dickens",
+      "title": "A Tale of Two Cities",
+      "llm_analysis": {
+        "summary": "Jerry Cruncher, a young messenger at Tellson's Bank, receives a mysterious package containing a letter from Mr. Jarvis Lorry, a lawyer. Intrigued, Jerry decides to investigate.",
+        "genre": "mystery"
+      }
+    },
+    {
+      "_id": "pg95.txt",
+      "author": "Anthony Hope",
+      "title": "The prisoner of Zenda",
+      "llm_analysis": {
+        "summary": "Rudolf Rassendyll, pretending to be King Rudolf the Fifth of Ruritania, embarks on a dangerous mission to retrieve the King from Duke Michael's custody. Along the way, he encounters various challenges and allies, including a mysterious woman named Antoinette de Mauban.",
+        "genre": "historical fiction"
+      }
+    }
+  ]
+}

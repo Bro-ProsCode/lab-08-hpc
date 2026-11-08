@@ -1,0 +1,215 @@
+JobID           JobName        NodeList  Partition    Account      User      State               Start    Elapsed 
+------------ ---------- --------------- ---------- ---------- --------- ---------- ------------------- ---------- 
+22451824     ood_vscode    udc-aw32-1c0 interacti+     ds2022    jac3nw CANCELLED+ 2026-11-04T09:07:11   00:01:41 
+22451824.ba+      batch    udc-aw32-1c0                ds2022            CANCELLED 2026-11-04T09:07:11   00:01:43 
+22514434     ood_vscode    udc-aw32-1c0 interacti+     ds2022    jac3nw    TIMEOUT 2026-11-05T13:04:58   02:00:01 
+22514434.ba+      batch    udc-aw32-1c0                ds2022            CANCELLED 2026-11-05T13:04:58   02:00:02 
+22514869          hello   udc-aw32-10c0 interacti+     ds2022    jac3nw  COMPLETED 2026-11-05T13:24:25   00:00:01 
+22514869.ba+      batch   udc-aw32-10c0                ds2022            COMPLETED 2026-11-05T13:24:25   00:00:01 
+22671759_1    summarize      udc-aw37-1    gpu-mig     ds2022    jac3nw  COMPLETED 2026-11-08T08:31:36   00:00:10 
+22671759_1.+      batch      udc-aw37-1                ds2022            COMPLETED 2026-11-08T08:31:36   00:00:10 
+22671770_2    summarize      udc-aw37-1    gpu-mig     ds2022    jac3nw  COMPLETED 2026-11-08T08:33:45   00:00:10 
+22671770_2.+      batch      udc-aw37-1                ds2022            COMPLETED 2026-11-08T08:33:45   00:00:10 
+22671801_1    summarize      udc-aw37-1    gpu-mig     ds2022    jac3nw  COMPLETED 2026-11-08T08:34:59   00:00:11 
+22671801_1.+      batch      udc-aw37-1                ds2022            COMPLETED 2026-11-08T08:34:59   00:00:11 
+22671801_2    summarize      udc-aw37-1    gpu-mig     ds2022    jac3nw  COMPLETED 2026-11-08T08:34:59   00:00:13 
+22671801_2.+      batch      udc-aw37-1                ds2022            COMPLETED 2026-11-08T08:34:59   00:00:13 
+22671801_3    summarize      udc-aw37-1    gpu-mig     ds2022    jac3nw  COMPLETED 2026-11-08T08:34:59   00:00:14 
+22671801_3.+      batch      udc-aw37-1                ds2022            COMPLETED 2026-11-08T08:34:59   00:00:14 
+22671801_4    summarize      udc-aw37-1    gpu-mig     ds2022    jac3nw  COMPLETED 2026-11-08T08:35:31   00:00:14 
+22671801_4.+      batch      udc-aw37-1                ds2022            COMPLETED 2026-11-08T08:35:31   00:00:14 
+22671801_5    summarize      udc-aw37-1    gpu-mig     ds2022    jac3nw  COMPLETED 2026-11-08T08:35:31   00:00:13 
+22671801_5.+      batch      udc-aw37-1                ds2022            COMPLETED 2026-11-08T08:35:31   00:00:13 
+22671801_6    summarize      udc-aw37-1    gpu-mig     ds2022    jac3nw  COMPLETED 2026-11-08T08:35:31   00:00:14 
+22671801_6.+      batch      udc-aw37-1                ds2022            COMPLETED 2026-11-08T08:35:31   00:00:14 
+22671801_7    summarize      udc-aw37-1    gpu-mig     ds2022    jac3nw  COMPLETED 2026-11-08T08:36:04   00:00:17 
+22671801_7.+      batch      udc-aw37-1                ds2022            COMPLETED 2026-11-08T08:36:04   00:00:17 
+22671801_8    summarize      udc-aw37-1    gpu-mig     ds2022    jac3nw  COMPLETED 2026-11-08T08:36:04   00:00:17 
+22671801_8.+      batch      udc-aw37-1                ds2022            COMPLETED 2026-11-08T08:36:04   00:00:17 
+22671801_9    summarize      udc-aw37-1    gpu-mig     ds2022    jac3nw  COMPLETED 2026-11-08T08:36:04   00:00:17 
+22671801_9.+      batch      udc-aw37-1                ds2022            COMPLETED 2026-11-08T08:36:04   00:00:17 
+22671801_10   summarize      udc-aw37-1    gpu-mig     ds2022    jac3nw  COMPLETED 2026-11-08T08:36:36   00:00:13 
+22671801_10+      batch      udc-aw37-1                ds2022            COMPLETED 2026-11-08T08:36:36   00:00:13 
+22671801_11   summarize      udc-aw37-1    gpu-mig     ds2022    jac3nw  COMPLETED 2026-11-08T08:36:36   00:00:14 
+22671801_11+      batch      udc-aw37-1                ds2022            COMPLETED 2026-11-08T08:36:36   00:00:14 
+22671801_12   summarize      udc-aw37-1    gpu-mig     ds2022    jac3nw  COMPLETED 2026-11-08T08:36:36   00:00:14 
+22671801_12+      batch      udc-aw37-1                ds2022            COMPLETED 2026-11-08T08:36:36   00:00:14 
+22671801_13   summarize      udc-aw37-1    gpu-mig     ds2022    jac3nw  COMPLETED 2026-11-08T08:37:16   00:00:14 
+22671801_13+      batch      udc-aw37-1                ds2022            COMPLETED 2026-11-08T08:37:16   00:00:14 
+22671801_14   summarize      udc-aw37-1    gpu-mig     ds2022    jac3nw  COMPLETED 2026-11-08T08:37:16   00:00:16 
+22671801_14+      batch      udc-aw37-1                ds2022            COMPLETED 2026-11-08T08:37:16   00:00:16 
+22671801_15   summarize      udc-aw37-1    gpu-mig     ds2022    jac3nw  COMPLETED 2026-11-08T08:37:16   00:00:14 
+22671801_15+      batch      udc-aw37-1                ds2022            COMPLETED 2026-11-08T08:37:16   00:00:14 
+22671801_16   summarize      udc-aw37-1    gpu-mig     ds2022    jac3nw  COMPLETED 2026-11-08T08:37:43   00:00:13 
+22671801_16+      batch      udc-aw37-1                ds2022            COMPLETED 2026-11-08T08:37:43   00:00:13 
+22671801_17   summarize      udc-aw37-1    gpu-mig     ds2022    jac3nw  COMPLETED 2026-11-08T08:37:43   00:00:13 
+22671801_17+      batch      udc-aw37-1                ds2022            COMPLETED 2026-11-08T08:37:43   00:00:13 
+22671801_18   summarize      udc-aw37-1    gpu-mig     ds2022    jac3nw  COMPLETED 2026-11-08T08:37:43   00:00:13 
+22671801_18+      batch      udc-aw37-1                ds2022            COMPLETED 2026-11-08T08:37:43   00:00:13 
+22671801_19   summarize      udc-aw37-1    gpu-mig     ds2022    jac3nw  COMPLETED 2026-11-08T08:38:19   00:00:14 
+22671801_19+      batch      udc-aw37-1                ds2022            COMPLETED 2026-11-08T08:38:19   00:00:14 
+22671801_20   summarize      udc-aw37-1    gpu-mig     ds2022    jac3nw  COMPLETED 2026-11-08T08:38:19   00:00:14 
+22671801_20+      batch      udc-aw37-1                ds2022            COMPLETED 2026-11-08T08:38:19   00:00:14 
+22671801_21   summarize      udc-aw37-1    gpu-mig     ds2022    jac3nw  COMPLETED 2026-11-08T08:38:19   00:00:15 
+22671801_21+      batch      udc-aw37-1                ds2022            COMPLETED 2026-11-08T08:38:19   00:00:15 
+22671801_22   summarize      udc-aw37-1    gpu-mig     ds2022    jac3nw  COMPLETED 2026-11-08T08:38:42   00:00:13 
+22671801_22+      batch      udc-aw37-1                ds2022            COMPLETED 2026-11-08T08:38:42   00:00:13 
+22671801_23   summarize      udc-aw37-1    gpu-mig     ds2022    jac3nw  COMPLETED 2026-11-08T08:38:42   00:00:13 
+22671801_23+      batch      udc-aw37-1                ds2022            COMPLETED 2026-11-08T08:38:42   00:00:13 
+22671801_24   summarize      udc-aw37-1    gpu-mig     ds2022    jac3nw  COMPLETED 2026-11-08T08:38:42   00:00:13 
+22671801_24+      batch      udc-aw37-1                ds2022            COMPLETED 2026-11-08T08:38:42   00:00:13 
+22671801_25   summarize      udc-aw37-1    gpu-mig     ds2022    jac3nw  COMPLETED 2026-11-08T08:39:19   00:00:15 
+22671801_25+      batch      udc-aw37-1                ds2022            COMPLETED 2026-11-08T08:39:19   00:00:15 
+22671801_26   summarize      udc-aw37-1    gpu-mig     ds2022    jac3nw  COMPLETED 2026-11-08T08:39:19   00:00:15 
+22671801_26+      batch      udc-aw37-1                ds2022            COMPLETED 2026-11-08T08:39:19   00:00:15 
+22671801_27   summarize      udc-aw37-1    gpu-mig     ds2022    jac3nw  COMPLETED 2026-11-08T08:39:19   00:00:14 
+22671801_27+      batch      udc-aw37-1                ds2022            COMPLETED 2026-11-08T08:39:19   00:00:14 
+22671801_28   summarize      udc-aw37-1    gpu-mig     ds2022    jac3nw  COMPLETED 2026-11-08T08:39:43   00:00:12 
+22671801_28+      batch      udc-aw37-1                ds2022            COMPLETED 2026-11-08T08:39:43   00:00:12 
+22671801_29   summarize      udc-aw37-1    gpu-mig     ds2022    jac3nw  COMPLETED 2026-11-08T08:39:43   00:00:13 
+22671801_29+      batch      udc-aw37-1                ds2022            COMPLETED 2026-11-08T08:39:43   00:00:13 
+22671801_30   summarize      udc-aw37-1    gpu-mig     ds2022    jac3nw  COMPLETED 2026-11-08T08:39:43   00:00:13 
+22671801_30+      batch      udc-aw37-1                ds2022            COMPLETED 2026-11-08T08:39:43   00:00:13 
+22671801_31   summarize      udc-aw37-1    gpu-mig     ds2022    jac3nw  COMPLETED 2026-11-08T08:40:07   00:00:12 
+22671801_31+      batch      udc-aw37-1                ds2022            COMPLETED 2026-11-08T08:40:07   00:00:12 
+22671801_32   summarize      udc-aw37-1    gpu-mig     ds2022    jac3nw  COMPLETED 2026-11-08T08:40:07   00:00:13 
+22671801_32+      batch      udc-aw37-1                ds2022            COMPLETED 2026-11-08T08:40:07   00:00:13 
+22671801_33   summarize      udc-aw37-1    gpu-mig     ds2022    jac3nw  COMPLETED 2026-11-08T08:40:07   00:00:13 
+22671801_33+      batch      udc-aw37-1                ds2022            COMPLETED 2026-11-08T08:40:07   00:00:13 
+22671801_34   summarize      udc-aw37-1    gpu-mig     ds2022    jac3nw  COMPLETED 2026-11-08T08:40:35   00:00:14 
+22671801_34+      batch      udc-aw37-1                ds2022            COMPLETED 2026-11-08T08:40:35   00:00:14 
+22671801_35   summarize      udc-aw37-1    gpu-mig     ds2022    jac3nw  COMPLETED 2026-11-08T08:40:35   00:00:14 
+22671801_35+      batch      udc-aw37-1                ds2022            COMPLETED 2026-11-08T08:40:35   00:00:14 
+22671801_36   summarize      udc-aw37-1    gpu-mig     ds2022    jac3nw  COMPLETED 2026-11-08T08:40:35   00:00:14 
+22671801_36+      batch      udc-aw37-1                ds2022            COMPLETED 2026-11-08T08:40:35   00:00:14 
+22671801_37   summarize      udc-aw37-1    gpu-mig     ds2022    jac3nw  COMPLETED 2026-11-08T08:40:57   00:00:13 
+22671801_37+      batch      udc-aw37-1                ds2022            COMPLETED 2026-11-08T08:40:57   00:00:13 
+22671801_38   summarize      udc-aw37-1    gpu-mig     ds2022    jac3nw  COMPLETED 2026-11-08T08:40:57   00:00:12 
+22671801_38+      batch      udc-aw37-1                ds2022            COMPLETED 2026-11-08T08:40:57   00:00:12 
+22671801_39   summarize      udc-aw37-1    gpu-mig     ds2022    jac3nw  COMPLETED 2026-11-08T08:40:57   00:00:12 
+22671801_39+      batch      udc-aw37-1                ds2022            COMPLETED 2026-11-08T08:40:57   00:00:12 
+22671801_40   summarize      udc-aw37-1    gpu-mig     ds2022    jac3nw  COMPLETED 2026-11-08T08:41:16   00:00:13 
+22671801_40+      batch      udc-aw37-1                ds2022            COMPLETED 2026-11-08T08:41:16   00:00:13 
+22671801_41   summarize      udc-aw37-1    gpu-mig     ds2022    jac3nw  COMPLETED 2026-11-08T08:41:16   00:00:13 
+22671801_41+      batch      udc-aw37-1                ds2022            COMPLETED 2026-11-08T08:41:16   00:00:13 
+22671801_42   summarize      udc-aw37-1    gpu-mig     ds2022    jac3nw  COMPLETED 2026-11-08T08:41:16   00:00:13 
+22671801_42+      batch      udc-aw37-1                ds2022            COMPLETED 2026-11-08T08:41:16   00:00:13 
+22671801_43   summarize      udc-aw37-1    gpu-mig     ds2022    jac3nw  COMPLETED 2026-11-08T08:41:40   00:00:12 
+22671801_43+      batch      udc-aw37-1                ds2022            COMPLETED 2026-11-08T08:41:40   00:00:12 
+22671801_44   summarize      udc-aw37-1    gpu-mig     ds2022    jac3nw  COMPLETED 2026-11-08T08:41:40   00:00:13 
+22671801_44+      batch      udc-aw37-1                ds2022            COMPLETED 2026-11-08T08:41:40   00:00:13 
+22671801_45   summarize      udc-aw37-1    gpu-mig     ds2022    jac3nw  COMPLETED 2026-11-08T08:41:40   00:00:12 
+22671801_45+      batch      udc-aw37-1                ds2022            COMPLETED 2026-11-08T08:41:40   00:00:12 
+22671801_46   summarize      udc-aw37-1    gpu-mig     ds2022    jac3nw  COMPLETED 2026-11-08T08:42:23   00:00:13 
+22671801_46+      batch      udc-aw37-1                ds2022            COMPLETED 2026-11-08T08:42:23   00:00:13 
+22671801_47   summarize      udc-aw37-1    gpu-mig     ds2022    jac3nw  COMPLETED 2026-11-08T08:42:23   00:00:14 
+22671801_47+      batch      udc-aw37-1                ds2022            COMPLETED 2026-11-08T08:42:23   00:00:14 
+22671801_48   summarize      udc-aw37-1    gpu-mig     ds2022    jac3nw  COMPLETED 2026-11-08T08:42:23   00:00:14 
+22671801_48+      batch      udc-aw37-1                ds2022            COMPLETED 2026-11-08T08:42:23   00:00:14 
+22671801_49   summarize      udc-aw37-1    gpu-mig     ds2022    jac3nw  COMPLETED 2026-11-08T08:43:02   00:00:14 
+22671801_49+      batch      udc-aw37-1                ds2022            COMPLETED 2026-11-08T08:43:02   00:00:14 
+22671801_50   summarize      udc-aw37-1    gpu-mig     ds2022    jac3nw  COMPLETED 2026-11-08T08:43:02   00:00:15 
+22671801_50+      batch      udc-aw37-1                ds2022            COMPLETED 2026-11-08T08:43:02   00:00:15 
+22671801_51   summarize      udc-aw37-1    gpu-mig     ds2022    jac3nw  COMPLETED 2026-11-08T08:43:02   00:00:15 
+22671801_51+      batch      udc-aw37-1                ds2022            COMPLETED 2026-11-08T08:43:02   00:00:15 
+22671801_52   summarize      udc-aw37-1    gpu-mig     ds2022    jac3nw  COMPLETED 2026-11-08T08:43:46   00:00:13 
+22671801_52+      batch      udc-aw37-1                ds2022            COMPLETED 2026-11-08T08:43:46   00:00:13 
+22671801_53   summarize      udc-aw37-1    gpu-mig     ds2022    jac3nw  COMPLETED 2026-11-08T08:43:46   00:00:13 
+22671801_53+      batch      udc-aw37-1                ds2022            COMPLETED 2026-11-08T08:43:46   00:00:13 
+22671801_54   summarize      udc-aw37-1    gpu-mig     ds2022    jac3nw  COMPLETED 2026-11-08T08:43:46   00:00:13 
+22671801_54+      batch      udc-aw37-1                ds2022            COMPLETED 2026-11-08T08:43:46   00:00:13 
+22671801_55   summarize      udc-aw37-1    gpu-mig     ds2022    jac3nw  COMPLETED 2026-11-08T08:44:20   00:00:16 
+22671801_55+      batch      udc-aw37-1                ds2022            COMPLETED 2026-11-08T08:44:20   00:00:16 
+22671801_56   summarize      udc-aw37-1    gpu-mig     ds2022    jac3nw  COMPLETED 2026-11-08T08:44:20   00:00:15 
+22671801_56+      batch      udc-aw37-1                ds2022            COMPLETED 2026-11-08T08:44:20   00:00:15 
+22671801_57   summarize      udc-aw37-1    gpu-mig     ds2022    jac3nw  COMPLETED 2026-11-08T08:44:20   00:00:17 
+22671801_57+      batch      udc-aw37-1                ds2022            COMPLETED 2026-11-08T08:44:20   00:00:17 
+22671801_58   summarize      udc-aw37-1    gpu-mig     ds2022    jac3nw  COMPLETED 2026-11-08T08:44:54   00:00:14 
+22671801_58+      batch      udc-aw37-1                ds2022            COMPLETED 2026-11-08T08:44:54   00:00:14 
+22671801_59   summarize      udc-aw37-1    gpu-mig     ds2022    jac3nw  COMPLETED 2026-11-08T08:44:54   00:00:13 
+22671801_59+      batch      udc-aw37-1                ds2022            COMPLETED 2026-11-08T08:44:54   00:00:13 
+22671801_60   summarize      udc-aw37-1    gpu-mig     ds2022    jac3nw  COMPLETED 2026-11-08T08:44:54   00:00:14 
+22671801_60+      batch      udc-aw37-1                ds2022            COMPLETED 2026-11-08T08:44:54   00:00:14 
+22671801_61   summarize      udc-aw37-1    gpu-mig     ds2022    jac3nw  COMPLETED 2026-11-08T08:45:26   00:00:15 
+22671801_61+      batch      udc-aw37-1                ds2022            COMPLETED 2026-11-08T08:45:26   00:00:15 
+22671801_62   summarize      udc-aw37-1    gpu-mig     ds2022    jac3nw  COMPLETED 2026-11-08T08:45:26   00:00:15 
+22671801_62+      batch      udc-aw37-1                ds2022            COMPLETED 2026-11-08T08:45:26   00:00:15 
+22671801_63   summarize      udc-aw37-1    gpu-mig     ds2022    jac3nw  COMPLETED 2026-11-08T08:45:26   00:00:15 
+22671801_63+      batch      udc-aw37-1                ds2022            COMPLETED 2026-11-08T08:45:26   00:00:15 
+22671801_64   summarize      udc-aw37-1    gpu-mig     ds2022    jac3nw  COMPLETED 2026-11-08T08:46:07   00:00:14 
+22671801_64+      batch      udc-aw37-1                ds2022            COMPLETED 2026-11-08T08:46:07   00:00:14 
+22671801_65   summarize      udc-aw37-1    gpu-mig     ds2022    jac3nw  COMPLETED 2026-11-08T08:46:07   00:00:14 
+22671801_65+      batch      udc-aw37-1                ds2022            COMPLETED 2026-11-08T08:46:07   00:00:14 
+22671801_66   summarize      udc-aw37-1    gpu-mig     ds2022    jac3nw  COMPLETED 2026-11-08T08:46:07   00:00:14 
+22671801_66+      batch      udc-aw37-1                ds2022            COMPLETED 2026-11-08T08:46:07   00:00:14 
+22671801_67   summarize      udc-aw37-1    gpu-mig     ds2022    jac3nw  COMPLETED 2026-11-08T08:46:44   00:00:14 
+22671801_67+      batch      udc-aw37-1                ds2022            COMPLETED 2026-11-08T08:46:44   00:00:14 
+22671801_68   summarize      udc-aw37-1    gpu-mig     ds2022    jac3nw  COMPLETED 2026-11-08T08:46:44   00:00:14 
+22671801_68+      batch      udc-aw37-1                ds2022            COMPLETED 2026-11-08T08:46:44   00:00:14 
+22671801_69   summarize      udc-aw37-1    gpu-mig     ds2022    jac3nw  COMPLETED 2026-11-08T08:46:44   00:00:13 
+22671801_69+      batch      udc-aw37-1                ds2022            COMPLETED 2026-11-08T08:46:44   00:00:13 
+22671801_70   summarize      udc-aw37-1    gpu-mig     ds2022    jac3nw  COMPLETED 2026-11-08T08:47:35   00:00:14 
+22671801_70+      batch      udc-aw37-1                ds2022            COMPLETED 2026-11-08T08:47:35   00:00:14 
+22671801_71   summarize      udc-aw37-1    gpu-mig     ds2022    jac3nw  COMPLETED 2026-11-08T08:47:35   00:00:14 
+22671801_71+      batch      udc-aw37-1                ds2022            COMPLETED 2026-11-08T08:47:35   00:00:14 
+22671801_72   summarize      udc-aw37-1    gpu-mig     ds2022    jac3nw  COMPLETED 2026-11-08T08:47:35   00:00:14 
+22671801_72+      batch      udc-aw37-1                ds2022            COMPLETED 2026-11-08T08:47:35   00:00:14 
+22671801_73   summarize      udc-aw37-1    gpu-mig     ds2022    jac3nw  COMPLETED 2026-11-08T08:48:19   00:00:14 
+22671801_73+      batch      udc-aw37-1                ds2022            COMPLETED 2026-11-08T08:48:19   00:00:14 
+22671801_74   summarize      udc-aw37-1    gpu-mig     ds2022    jac3nw  COMPLETED 2026-11-08T08:48:19   00:00:15 
+22671801_74+      batch      udc-aw37-1                ds2022            COMPLETED 2026-11-08T08:48:19   00:00:15 
+22671801_75   summarize      udc-aw37-1    gpu-mig     ds2022    jac3nw  COMPLETED 2026-11-08T08:48:19   00:00:14 
+22671801_75+      batch      udc-aw37-1                ds2022            COMPLETED 2026-11-08T08:48:19   00:00:14 
+22671801_76   summarize      udc-aw37-1    gpu-mig     ds2022    jac3nw  COMPLETED 2026-11-08T08:48:43   00:00:12 
+22671801_76+      batch      udc-aw37-1                ds2022            COMPLETED 2026-11-08T08:48:43   00:00:12 
+22671801_77   summarize      udc-aw37-1    gpu-mig     ds2022    jac3nw  COMPLETED 2026-11-08T08:48:43   00:00:13 
+22671801_77+      batch      udc-aw37-1                ds2022            COMPLETED 2026-11-08T08:48:43   00:00:13 
+22671801_78   summarize      udc-aw37-1    gpu-mig     ds2022    jac3nw  COMPLETED 2026-11-08T08:48:43   00:00:13 
+22671801_78+      batch      udc-aw37-1                ds2022            COMPLETED 2026-11-08T08:48:43   00:00:13 
+22671801_79   summarize      udc-aw37-1    gpu-mig     ds2022    jac3nw  COMPLETED 2026-11-08T08:49:07   00:00:14 
+22671801_79+      batch      udc-aw37-1                ds2022            COMPLETED 2026-11-08T08:49:07   00:00:14 
+22671801_80   summarize      udc-aw37-1    gpu-mig     ds2022    jac3nw  COMPLETED 2026-11-08T08:49:07   00:00:14 
+22671801_80+      batch      udc-aw37-1                ds2022            COMPLETED 2026-11-08T08:49:07   00:00:14 
+22671801_81   summarize      udc-aw37-1    gpu-mig     ds2022    jac3nw  COMPLETED 2026-11-08T08:49:07   00:00:14 
+22671801_81+      batch      udc-aw37-1                ds2022            COMPLETED 2026-11-08T08:49:07   00:00:14 
+22671801_82   summarize      udc-aw37-1    gpu-mig     ds2022    jac3nw  COMPLETED 2026-11-08T08:49:39   00:00:12 
+22671801_82+      batch      udc-aw37-1                ds2022            COMPLETED 2026-11-08T08:49:39   00:00:12 
+22671801_83   summarize      udc-aw37-1    gpu-mig     ds2022    jac3nw  COMPLETED 2026-11-08T08:49:39   00:00:12 
+22671801_83+      batch      udc-aw37-1                ds2022            COMPLETED 2026-11-08T08:49:39   00:00:12 
+22671801_84   summarize      udc-aw37-1    gpu-mig     ds2022    jac3nw  COMPLETED 2026-11-08T08:49:39   00:00:13 
+22671801_84+      batch      udc-aw37-1                ds2022            COMPLETED 2026-11-08T08:49:39   00:00:13 
+22671801_85   summarize      udc-aw37-1    gpu-mig     ds2022    jac3nw  COMPLETED 2026-11-08T08:50:07   00:00:12 
+22671801_85+      batch      udc-aw37-1                ds2022            COMPLETED 2026-11-08T08:50:07   00:00:12 
+22671801_86   summarize      udc-aw37-1    gpu-mig     ds2022    jac3nw  COMPLETED 2026-11-08T08:50:07   00:00:13 
+22671801_86+      batch      udc-aw37-1                ds2022            COMPLETED 2026-11-08T08:50:07   00:00:13 
+22671801_87   summarize      udc-aw37-1    gpu-mig     ds2022    jac3nw  COMPLETED 2026-11-08T08:50:07   00:00:12 
+22671801_87+      batch      udc-aw37-1                ds2022            COMPLETED 2026-11-08T08:50:07   00:00:12 
+22671801_88   summarize      udc-aw37-1    gpu-mig     ds2022    jac3nw  COMPLETED 2026-11-08T08:50:26   00:00:14 
+22671801_88+      batch      udc-aw37-1                ds2022            COMPLETED 2026-11-08T08:50:26   00:00:14 
+22671801_89   summarize      udc-aw37-1    gpu-mig     ds2022    jac3nw  COMPLETED 2026-11-08T08:50:26   00:00:14 
+22671801_89+      batch      udc-aw37-1                ds2022            COMPLETED 2026-11-08T08:50:26   00:00:14 
+22671801_90   summarize      udc-aw37-1    gpu-mig     ds2022    jac3nw  COMPLETED 2026-11-08T08:50:26   00:00:14 
+22671801_90+      batch      udc-aw37-1                ds2022            COMPLETED 2026-11-08T08:50:26   00:00:14 
+22671801_91   summarize      udc-aw37-1    gpu-mig     ds2022    jac3nw  COMPLETED 2026-11-08T08:51:00   00:00:14 
+22671801_91+      batch      udc-aw37-1                ds2022            COMPLETED 2026-11-08T08:51:00   00:00:14 
+22671801_92   summarize      udc-aw37-1    gpu-mig     ds2022    jac3nw  COMPLETED 2026-11-08T08:51:00   00:00:13 
+22671801_92+      batch      udc-aw37-1                ds2022            COMPLETED 2026-11-08T08:51:00   00:00:13 
+22671801_93   summarize      udc-aw37-1    gpu-mig     ds2022    jac3nw  COMPLETED 2026-11-08T08:51:00   00:00:13 
+22671801_93+      batch      udc-aw37-1                ds2022            COMPLETED 2026-11-08T08:51:00   00:00:13 
+22671801_94   summarize      udc-aw37-1    gpu-mig     ds2022    jac3nw  COMPLETED 2026-11-08T08:51:20   00:00:14 
+22671801_94+      batch      udc-aw37-1                ds2022            COMPLETED 2026-11-08T08:51:20   00:00:14 
+22671801_95   summarize      udc-aw37-1    gpu-mig     ds2022    jac3nw  COMPLETED 2026-11-08T08:51:20   00:00:14 
+22671801_95+      batch      udc-aw37-1                ds2022            COMPLETED 2026-11-08T08:51:20   00:00:14 
+22671801_96   summarize      udc-aw37-1    gpu-mig     ds2022    jac3nw  COMPLETED 2026-11-08T08:51:20   00:00:14 
+22671801_96+      batch      udc-aw37-1                ds2022            COMPLETED 2026-11-08T08:51:20   00:00:14 
+22671801_97   summarize      udc-aw37-1    gpu-mig     ds2022    jac3nw  COMPLETED 2026-11-08T08:51:41   00:00:12 
+22671801_97+      batch      udc-aw37-1                ds2022            COMPLETED 2026-11-08T08:51:41   00:00:12 
+22671801_98   summarize      udc-aw37-1    gpu-mig     ds2022    jac3nw  COMPLETED 2026-11-08T08:51:41   00:00:12 
+22671801_98+      batch      udc-aw37-1                ds2022            COMPLETED 2026-11-08T08:51:41   00:00:12 
+22671801_99   summarize      udc-aw37-1    gpu-mig     ds2022    jac3nw  COMPLETED 2026-11-08T08:51:41   00:00:13 
+22671801_99+      batch      udc-aw37-1                ds2022            COMPLETED 2026-11-08T08:51:41   00:00:13 
+22671801_100  summarize      udc-aw37-1    gpu-mig     ds2022    jac3nw  COMPLETED 2026-11-08T08:52:08   00:00:12 
+22671801_10+      batch      udc-aw37-1                ds2022            COMPLETED 2026-11-08T08:52:08   00:00:12 
+22671801_101  summarize      udc-aw37-1    gpu-mig     ds2022    jac3nw  COMPLETED 2026-11-08T08:52:08   00:00:11 
+22671801_10+      batch      udc-aw37-1                ds2022            COMPLETED 2026-11-08T08:52:08   00:00:11 
+22671810_[1+  summarize   None assigned    gpu-mig     ds2022    jac3nw CANCELLED+                None   00:00:00 
